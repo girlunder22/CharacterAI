@@ -47,7 +47,7 @@ def authUser(link: str, email: str) -> str:
                 '0IiwicHJvamVjdHNcL2NoYXJhY3Rlci1haSJdLCJwcm92aWR'
                 'lciI6InJlY2FwdGNoYV9lbnRlcnByaXNlIiwiaXNzIjoiaHR0'
                 'cHM6XC9cL2ZpcmViYXNlYXBwY2hlY2suZ29vZ2xlYXBpcy5jb'
-                '21cLzQ1ODc5NzcyMDY3NCIsImV4cCI6MTcxMTAxNzE2MiwiaWF'
+                '21cLzQ1ODc5NzcyMDY3NCIsImV4cC6MTcxMTAxNzE2MiwiaWF'
                 '0IjoxNzEwNDEyMzYyLCJqdGkiOiJkSXlkWVFPZEhnaTRmc2ZGU'
                 'DMtWHNZVU0zZG01eFY4R05ncDItOWxCQ2xVIn0.o2g6-5Pl7rj'
                 'iKdQ4X9bdOe6tDSVmdODFZUljHDnF5cNCik6masItwpeL3Yh6h'
